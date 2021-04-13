@@ -1,4 +1,4 @@
-### Hi, I'am Anibal Rodriguez 👋
+### Hi, I'm Anibal Rodriguez 👋
 
 - 🌱 I’m currently learning more about JavaScript, NodeJS, GraphQL..etc
 
