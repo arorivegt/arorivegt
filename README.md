@@ -4,7 +4,7 @@
 
 ![Anibal's GitHub stats](https://github-readme-stats.vercel.app/api?username=arorivegt&hide=contribs,prs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arorivegt)](https://github.com/arorivegt/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arorivegt&theme=radical)](https://github.com/arorivegt/github-readme-stats)
 
 
 **Languages and Tools:**  
