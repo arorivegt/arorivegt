@@ -20,19 +20,16 @@
 
 
 <a href="https://github.com/arorivegt/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.arorivegt.vercel.app/api?username=arorivegt&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.arorivegt.vercel.app/api?username=arorivegt&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anibal's github stats" />
 </a>
 <a href="https://github.com/arorivegt/github-readme-stats">
-  <!-- Change the `github-readme-stats.arorivegt1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.arorivegt.vercel.app/api/top-langs/?username=arorivegt&layout=compact&theme=material-palenight" />
 </a>
 
 <a href="https://github.com/arorivegt/github-readme-stats">
-  <!-- Change the `github-readme-stats.arorivegt1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.arorivegt.vercel.app/api/pin/?username=arorivegt&repo=github-readme-stats&theme=material-palenight" />
 </a>    
 <a href="https://github.com/arorivegt/arorivegt.github.io">
-  <!-- Change the `github-readme-stats.arorivegt1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.arorivegt.vercel.app/api/pin/?username=arorivegt&repo=arorivegt.github.io&theme=material-palenight" />
 </a>
 
